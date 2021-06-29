@@ -25,6 +25,20 @@
       "decimals": 6
     },
     {
+      "name": "MEOW",
+      "symbol": "MEOW",
+      "address": "0x95D25Ebb145A40a848445F71C58B863D180b89fD",
+      "chainId": 97,
+      "decimals": 6
+    },
+    {
+      "name": "KITTY",
+      "symbol": "KITTY",
+      "address": "0xFAdef35718Ab13DE5dB264241BAf2283fF23c3aE",
+      "chainId": 97,
+      "decimals": 6
+    },
+    {
       "name": "AUTOv2",
       "symbol": "AUTO",
       "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",

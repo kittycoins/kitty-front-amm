@@ -14,7 +14,7 @@ const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
       <ButtonMenuItem id="swap-nav-link" to="/swap" as={Link}>
         <TranslatedText translationId={8}>Swap</TranslatedText>
       </ButtonMenuItem>
-      <ButtonMenuItem id="farm-nav-link" to="/farm" as={Link}>
+      <ButtonMenuItem id="farm-nav-link" href="https://farm.excodus.com/farm" as="a">
         <TranslatedText translationId={8}>Farm</TranslatedText>
       </ButtonMenuItem>
       <ButtonMenuItem id="pool-nav-link" to="/pool" as={Link}>
