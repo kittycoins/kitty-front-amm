@@ -15,7 +15,7 @@
       "symbol": "MEOW",
       "address": "0x98726fadc3EBc0e9006D5da04dB82c45876Ef464",
       "chainId": 56,
-      "decimals": 6
+      "decimals": 9
     },
     {
       "name": "KITTY",

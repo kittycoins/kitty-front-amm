@@ -1,7 +1,10 @@
 FROM node:16 as builder
 WORKDIR /app
+
+COPY package.json yarn.lock ./
+RUN yarn install 
 COPY . .
-RUN yarn install && yarn build
+RUN yarn build
 
 FROM nginx:latest
 WORKDIR /usr/share/nginx/html
