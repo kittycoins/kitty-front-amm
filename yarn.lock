@@ -3089,8 +3089,8 @@
     truffle-hdwallet-provider "^1.0.17"
 
 "@pancakeswap-libs/uikit@kittycoins/kitty-uikit":
-  version "0.10.5"
-  resolved "https://codeload.github.com/kittycoins/kitty-uikit/tar.gz/5ebc3c363df3b28698d62f6a6c7dfb13519fffa9"
+  version "0.10.8"
+  resolved "https://codeload.github.com/kittycoins/kitty-uikit/tar.gz/d273c1ad5e9cf9cae0b06b6682bc8bff70a9a092"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
